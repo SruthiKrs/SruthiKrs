@@ -20,7 +20,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://github.com/SruthiKrs/SruthiKrs/assets/154792371/d0a297c9-429a-49c7-9c15-004f35fd7bf3" alt="java" width="40" height="40"/>
    <img src="https://github.com/SruthiKrs/SruthiKrs/assets/154792371/cfdfc018-9601-4401-a84a-812258398fd5" alt="jsp" height="40" width="40"/>
   <img src="https://github.com/SruthiKrs/SruthiKrs/assets/154792371/f3f68144-1348-41c0-aae2-bb38d6bdc07b" alt="jdbc" width="40px" height="40"/>
  <imf src="https://github.com/SruthiKrs/SruthiKrs/assets/154792371/0a99729f-24ce-49c4-9545-daf637eefe85" alt="sql" width="40" height="40"/>
